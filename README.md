@@ -6,7 +6,7 @@
  **/ ABOUT ME /**
   
 - ⭐ currently working on **GameDev** and **WebSites**
-- 💀 mostly working on **private repositories**
+- 🔐 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
 **/ MORE STUFF! /** 

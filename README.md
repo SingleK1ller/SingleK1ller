@@ -39,8 +39,5 @@
 <div align = "left">
   <a href="https://soundcloud.com/ik1gai">SoundCloud</a>
 </div>
-  
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SingleK1ller&layout=pie&title_color=ffffff&icon_color=ffffff&bg_color=000000&text_color=ffffff&hide=Shaderlab,HLSL'/>
-
 
 ------
